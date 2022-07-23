@@ -16,12 +16,12 @@ p {
   overflow: hidden;
 }
 
-#container {
+#contain {
   position: relative;
   
 }
 
-#p1 {
+#para1 {
   background-color: #D59898;
   position: absolute;
   top: 0;
@@ -35,7 +35,7 @@ p {
 
 }
 
-#p2 {
+#para2 {
   background-color:#C14543 ;
   color: white;
   position: absolute;
@@ -50,7 +50,7 @@ p {
 
 }
 
-#p3 {
+#para3 {
  background-color: #E5D198;
   position: absolute;
   top: 0;
@@ -64,7 +64,7 @@ p {
 
 }
 
-.row {
+.box {
   width: 100%;
 
 }
